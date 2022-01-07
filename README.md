@@ -1,3 +1,4 @@
+
 # F1 Cheats
 
 These are the only F1 cheats you'll ever need. Whether it be for the advanved league racer or the casual social lobby player, these cheats are the cheats for you.
@@ -7,7 +8,7 @@ These are the only F1 cheats you'll ever need. Whether it be for the advanved le
 
 Here at F1 Cheats, we have an emphesis on clarity, so we make sure to use trusted and well known software so avoid any doubt regarding malware.
 
-```bash
+```
 1. Run CheatEngine73.exe to install the software we will be using to edit things like
 grip, engine power etc
 
@@ -30,7 +31,7 @@ That's the installation process done! Pretty simple right?
 
 To use the cheats, there are a couple of steps required, but once you're used to them, they become very simple
 
-```javascript
+```
 1. Start by running Cheat 1, and/or Cheat 2. Each cheat serves a different purpose, which 
 can be found below
 
